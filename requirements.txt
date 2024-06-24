@@ -1,0 +1,7 @@
+google-generativeai
+torch
+torchvision
+torchaudio
+python-dotenv
+matplotlib
+numpy<2
